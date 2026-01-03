@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Surya Insani Hospital<br>👯 I created much websites<br>🌱 I’m currently learning Laravel
+🔭 I’m currently working on Surya Insani Hospital<br>👯 I created much websites<br>🌱 I’m currently learning Next Js
 
 
 ## 🌐 Socials:
